@@ -7,6 +7,11 @@
  *
  * @author PC 05 GPB
  */
+
+/**
+ *
+ * @author PC 05 GPB
+ */
 public class Panel2 extends javax.swing.JPanel {
 
     /**
